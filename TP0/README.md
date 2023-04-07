@@ -1,4 +1,4 @@
-# Redes-TP0 🖧 💡
+# Redes-TP0 💡
 ### Grupo 57 - [José Fonte](https://github.com/josefonte) | [MiguelRaposo](https://github.com/MiguelRaposo) Nota: __
 
 __Tema__ : COPA EUROPE - Collaborative platform for transmedia storytelling and cross channel distribution of European sport
