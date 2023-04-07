@@ -12,6 +12,7 @@ recendo uma experiência mais interativa e participativa. O projeto utilizará t
 nologias inovadoras, como o Blockchain, 5G e AR/VR, para disponibilizar aos
 espectadores uma experiência mais imersiva, democrática e descentralizada.
 
-**Links
+__Links__
 [Website COPA EUROPE](https://copaeurope.eu/)
+
 [Financiamento Europeu](https://cordis.europa.eu/project/id/957059)
