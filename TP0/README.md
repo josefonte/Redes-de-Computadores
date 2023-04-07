@@ -8,6 +8,7 @@ __Resumo__ : Atualmente, a transmissão de eventos desportivos é feita principa
 espectadores. A Copa Europa procura quebrar esse paradigma através de uma plataforma OTT colaborativa que envolve toda a comunidade desportiva, oferecendo uma experiência mais interativa e participativa. O projeto utilizará tecnologias inovadoras, como o Blockchain, 5G e AR/VR, para disponibilizar aos espectadores uma experiência mais imersiva, democrática e descentralizada.
 
 __Links__
+____
 
 [Website COPA EUROPE](https://copaeurope.eu/)
 
